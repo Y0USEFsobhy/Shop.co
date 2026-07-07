@@ -1,0 +1,1 @@
+import{g as s,h as t,j as r}from"./index-B9u42GwK.js";import o from"./NotFound-Bl2CmBrt.js";function u(){const e=s();return t(e)&&e.status===404?r.jsx(o,{}):r.jsxs("div",{className:"flex flex-col justify-center items-center h-screen",children:[r.jsx("h1",{children:"Something went wrong"}),r.jsx("p",{children:e.statusText||e.message})]})}export{u as default};
