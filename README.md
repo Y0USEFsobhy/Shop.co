@@ -27,9 +27,6 @@ A modern, responsive e-commerce web application built with **React** and **Vite*
 - 🎯 Filter by:
   - Category
   - Brand
-  - Size
-  - Color
-  - Price Range
 - ↕️ Sort products
 - 📄 Dynamic product details page
 - 🛒 Shopping cart
