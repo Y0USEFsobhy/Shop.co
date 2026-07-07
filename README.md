@@ -147,7 +147,7 @@ npm run build
 **Yousef Sobhy**
 
 - GitHub: https://github.com/Y0usefSobhy
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/yousef-sobhy-3978a2262/
 
 ---
 
